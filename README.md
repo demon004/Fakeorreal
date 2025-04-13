@@ -99,4 +99,4 @@ prediction = model.predict(vectorized_input)
 - Explainable AI: Show *why* a news is fake
 
 ---
-Made with love by [Your Name] for learning NLP and ML fundamentals.
+Made with love by Ritik for learning NLP and ML fundamentals.
